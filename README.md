@@ -17,3 +17,7 @@ A Pixel Art Maker Made In Java
 * Export in PNG
 * Export with Transparency
 * Many More!
+
+### Keyboard Shortcuts
+* Shift+Scroll Up or Down to Increase or Decrease Pen Size
+* Alt+Scroll Up or Down to Increase or Decrease Eraser Size
